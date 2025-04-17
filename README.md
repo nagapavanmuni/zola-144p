@@ -1,1 +1,1 @@
-[clone of zola.chat](https://www.zola.chat/)
+[zola.chat](https://www.zola.chat/)
